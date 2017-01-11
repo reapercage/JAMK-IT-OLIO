@@ -10,7 +10,7 @@ namespace JAMK.IT
     static void Main()
     {
 
-            veikkaus.Lotto.DrawLotto();
+            Veikkaus.Lotto.DrawLotto();
 
             //mustajaska();
 
