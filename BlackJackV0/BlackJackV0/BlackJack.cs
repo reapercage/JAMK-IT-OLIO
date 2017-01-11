@@ -12,6 +12,8 @@ namespace JAMK.IT
 
             veikkaus.Lotto.DrawLotto();
 
+            //mustajaska();
+
         }
         
         static void mustajaska()
